@@ -1,20 +1,6 @@
-create a program which allows for a disorganized csv file to be formatted into neat order
-
-normalize names
-check for valid emails(if invalid state it to be)
-turn age into int(if age lacks claim "none")
-output a cleaned up csv
-
-must be usable using the following structure: "python <program>.py <input>.csv"
-
-minimally needed for success:{
-- It runs from command line with one argument.
-
-- It outputs a CSV with properly cleaned rows.
-
-- No crashes on empty fields.
-
-- Code is readable and not over-engineered.
-
-- You handle unexpected input gracefully (try/except where needed).
-}
+Deadline: 30 minutes total
+function name needs to be: "formatUsername"
+criteria:
+    - take away the useless spaces
+    - replace space between words(Example: anne marie) and replace them for _(Example: Anne_marie)
+    - force the words to be lower case
