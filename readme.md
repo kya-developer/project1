@@ -10,7 +10,7 @@ This Node.js script formats a username passed through the command line by:
 ---
 
 ### commercial license
-for a commercial license please contact: [kyaDeveloper@gmail.com](mailto:kyaDeveloper@gmail.com)
+for a commercial license please contact: [kyaDeveloper@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kyaDeveloper@gmail.com)
 
 ### Run the script
 ```bash
