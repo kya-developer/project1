@@ -1,4 +1,11 @@
 /*
+ * Copyright © [YEAR] Licensor(s)
+ * Licensed under the Kya’s Regular License (KRL).
+ * You may not use this file except in compliance with the License.
+ * A copy of the KRL should be included with this project or available upon request.
+ */
+
+/*
 initial time: 00:10:16:034(hh:mm:ss:ms)
 final time after fixings: 00:13:37:747(hh:mm:ss:ms)
 */
