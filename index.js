@@ -1,5 +1,5 @@
 /*
- * Copyright © [YEAR] Licensor(s)
+ * Copyright © 2025 Licensor(s)
  * Licensed under the Kya’s Regular License (KRL).
  * You may not use this file except in compliance with the License.
  * A copy of the KRL should be included with this project or available upon request.
